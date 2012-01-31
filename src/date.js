@@ -826,6 +826,6 @@ timezoneJS.timezone = new function() {
     var abbr = getAbbreviation(zone, rule);
     return { tzOffset: off, tzAbbr: abbr };
   }
-}
+};
 
 
